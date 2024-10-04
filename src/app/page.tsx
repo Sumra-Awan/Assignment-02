@@ -17,7 +17,8 @@ export default function Home() {
       }}
     >
       <Header />
-      <h1>HELLO WORLD!</h1>
+      <h1>This Is Home Page</h1>
+      <h2>Hi!</h2>
       <About />
     </div>
   );
